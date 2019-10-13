@@ -26,3 +26,4 @@ TODO
 ### Links
 - [Acclaim Badge](https://www.youracclaim.com/badges/9408c92b-5838-4860-b33f-83acd33b0dbe/public_url)
 - [Coursera Certificate](https://www.coursera.org/account/accomplishments/specialization/PGWS52BMZM9L)
+- [Introduction to Data Science](https://www.coursera.org/specializations/introduction-data-science)
