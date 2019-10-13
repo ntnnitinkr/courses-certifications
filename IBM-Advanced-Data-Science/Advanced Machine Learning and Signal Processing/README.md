@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/ntnnitinkr/IBM-Advanced-Data-Science/blob/master/Advanced%20Machine%20Learning%20and%20Signal%20Processing/IBM+Watson+IoT-+Advanced+Machine+Learning+and+Signal+Processing.png" width="20%" height="20%">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Advanced%20Machine%20Learning%20and%20Signal%20Processing/IBM+Watson+IoT-+Advanced+Machine+Learning+and+Signal+Processing.png" width="20%" height="20%">
 </p>
 
 <h1 align="center">About the Course</h1>
