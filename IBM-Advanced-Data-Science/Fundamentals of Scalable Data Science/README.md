@@ -19,3 +19,7 @@ In the [first course](https://www.coursera.org/learn/ds) of the IBM Advanced Dat
 - [x] [Assignment 3](https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Fundamentals%20of%20Scalable%20Data%20Science/Assignment%203.1.ipynb)
 - [x] [Assignment 4](https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Fundamentals%20of%20Scalable%20Data%20Science/aAssignment%204.1.ipynb)
 
+
+### Links
+[Acclaim Badge](https://www.youracclaim.com/badges/e575528f-6660-4295-95ae-1f63ac4a1295/public_url)
+[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/C5UZEW3SK6DF)
