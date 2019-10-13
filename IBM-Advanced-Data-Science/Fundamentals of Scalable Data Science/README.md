@@ -21,5 +21,5 @@ In the [first course](https://www.coursera.org/learn/ds) of the IBM Advanced Dat
 
 
 ### Links
-[Acclaim Badge](https://www.youracclaim.com/badges/e575528f-6660-4295-95ae-1f63ac4a1295/public_url)
-[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/C5UZEW3SK6DF)
+- [Acclaim Badge](https://www.youracclaim.com/badges/e575528f-6660-4295-95ae-1f63ac4a1295/public_url)
+- [Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/C5UZEW3SK6DF)
