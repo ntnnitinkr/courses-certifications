@@ -20,3 +20,8 @@ In the [third course](https://www.coursera.org/learn/ai) of the IBM Advanced Dat
 - [x] [Keras Model](https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Applied%20AI%20with%20Deep%20Learning/Assignment%20Keras.ipynb)
 - [x] [Sonar Lab](https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Applied%20AI%20with%20Deep%20Learning/SonarLab.ipynb)
 
+
+### Links
+- [Acclaim Badge](https://www.youracclaim.com/badges/a00c7a8e-0c73-4011-bcef-f3f710e3431b/public_url)
+- [Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/59WBMEKS57QU)
+
