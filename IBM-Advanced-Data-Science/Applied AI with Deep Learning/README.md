@@ -16,7 +16,7 @@ In the [third course](https://www.coursera.org/learn/ai) of the IBM Advanced Dat
 ## Programming Assignment Notebooks
 
 - [x] [Anomoly Detection](https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Applied%20AI%20with%20Deep%20Learning/Assignment%20Anomaly%20Detection.ipynb)
-- [x] [Apache SystemML]https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Applied%20AI%20with%20Deep%20Learning/Assignment%20SystemML.ipynb)
+- [x] [Apache SystemML](https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Applied%20AI%20with%20Deep%20Learning/Assignment%20SystemML.ipynb)
 - [x] [Keras Model](https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Applied%20AI%20with%20Deep%20Learning/Assignment%20Keras.ipynb)
-- [x] [Sonar Lab]https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Applied%20AI%20with%20Deep%20Learning/SonarLab.ipynb)
+- [x] [Sonar Lab](https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Applied%20AI%20with%20Deep%20Learning/SonarLab.ipynb)
 
