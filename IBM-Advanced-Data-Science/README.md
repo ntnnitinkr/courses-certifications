@@ -15,6 +15,11 @@ TODO
 <img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Advanced%2BData%2BScience%2Bwith%2BIBM.jpg" width="70%" height="60%" title="learning scope" >
 </p>
 
+### Links
+- [Acclaim Badge](https://www.youracclaim.com/badges/a00c7a8e-0c73-4011-bcef-f3f710e3431b/public_url)
+- [Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/2CCTZNH732AJ)
+
+
 ## Individual Courses
 
 1. [Fundamentals of Scalable Data Science](https://github.com/ntnnitinkr/courses-certifications/tree/master/IBM-Advanced-Data-Science/Fundamentals%20of%20Scalable%20Data%20Science)
