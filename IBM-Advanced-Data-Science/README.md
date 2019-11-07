@@ -12,7 +12,7 @@ TODO
 
 
 <p align="center">
-<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/cert%20final.jpg" width="70%" height="60%" title="learning scope" >
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Advanced%2BData%2BScience%2Bwith%2BIBM.jpg" width="70%" height="60%" title="learning scope" >
 </p>
 
 ## Individual Courses
