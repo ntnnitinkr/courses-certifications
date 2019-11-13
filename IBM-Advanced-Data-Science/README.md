@@ -4,7 +4,7 @@ Notebooks from IBM Advanced Data Science Specialization on Coursera.
 </p>
 
 <p align="center">
-    <img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/badge%20final.png" width="30%" height="30%" title="Deep Learning AI Specialization Certificate" >
+    <img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/IBM-Advanced-Data-Science/Advanced%2BData%2BScience%2Bwith%2BIBM.png" width="30%" height="30%" title="Deep Learning AI Specialization Certificate" >
 </p>
 
 ## About the Specialization
@@ -16,7 +16,7 @@ TODO
 </p>
 
 ### Links
-- [Acclaim Badge](https://www.youracclaim.com/badges/a00c7a8e-0c73-4011-bcef-f3f710e3431b/public_url)
+- [Acclaim Badge](https://www.youracclaim.com/badges/632631d0-ee30-4ede-8efe-784bdd834327/public_url)
 - [Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/2CCTZNH732AJ)
 
 
