@@ -1,3 +1,18 @@
+<h1 align="center"><a href="https://www.youracclaim.com/badges/9971e3ce-57b3-44fa-b9a8-1016e6c34f39/public_url">Oracle Utilities Customer Care and Billing 2 Certified Implementation Specialist</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Oracle-Certification-badge_OC-Specialist.png" width="20%" height="20%">
+</p>
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Oracle-Certification-badge_OC-Specialist.jpg" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Course</h2>
+An Oracle Utilities Customer Care and Billing 2 Certified Implementation Specialist has demonstrated the knowledge required to configure options for the main V entities (person, account, service agreements, premises, and service point). Individuals who earn this certification are well-versed in business objects, billing and payment management, scripting, revision control, and bundling.
+
+
+
+
 <h1 align="center"><a href="https://www.youracclaim.com/badges/6b21b1b0-e8f0-4c74-b8d0-639fe2d5a39d/public_url">Big Data Foundations - Level 2</a></h1>
 
 <p align="center">
