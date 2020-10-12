@@ -1,3 +1,18 @@
+<h1 align="center"><a href="https://www.youracclaim.com/badges/547020ed-e70f-47af-82bc-1ac8a35c136f/public_url">Oracle Utilities Customer Cloud Service 2020 Certified Implementation Specialist</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/oracle-utilities-customer-cloud-service-2020-certified-implementation-specialist.png" width="20%" height="20%">
+</p>
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/OUCSS_Certificate.png" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Course</h2>
+An Oracle Utilities Customer Cloud Service 2020 Certified Implementation Specialist has demonstrated the knowledge required to implement and configure the service, including Managing Customer Information and Financial Transactions, Billing, Managing Rates and Payments, Monitoring Overdue Debt, Devices & Measuring Components, Measurements, VEE, Usage, Fieldwork, and Service Order Management, and Operational Device Management. Up-to-date training and field experience are recommended.
+
+
+
+
 <h1 align="center"><a href="https://www.youracclaim.com/badges/9971e3ce-57b3-44fa-b9a8-1016e6c34f39/public_url">Oracle Utilities Customer Care and Billing 2 Certified Implementation Specialist</a></h1>
 
 <p align="center">
@@ -9,6 +24,114 @@
 
 <h2 align="center">About the Course</h2>
 An Oracle Utilities Customer Care and Billing 2 Certified Implementation Specialist has demonstrated the knowledge required to configure options for the main V entities (person, account, service agreements, premises, and service point). Individuals who earn this certification are well-versed in business objects, billing and payment management, scripting, revision control, and bundling.
+
+
+
+
+<h1 align="center"><a href="https://www.youracclaim.com/badges/adbc6dd5-3037-450a-afc3-9553c11f59c5/public_url">IBM Automation: Compass</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/ALC-Compass-Badge.png" width="20%" height="20%">
+</p>
+
+<h2 align="center">About the Course</h2>
+This badge earner understands multiple essential elements of Intelligent Automation and the Future of Work to evolve their automation journey. Essential elements include why automation and the Future of Work are important to transform the business, and how Digital Workers and people will collaborate together. It also includes the workflows, Digital Worker and key drivers of the Future of Work that are necessary for an enterprise’s successful automation implementation.
+
+
+
+
+<h1 align="center"><a href="https://www.youracclaim.com/badges/4ae0d291-239a-451b-a504-65dc0703646b/public_url">Watson Discovery Foundations</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Watson_Academy_-_Discovery__-_Foundations.png" width="20%" height="20%">
+</p>
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Watson%20Discovery%20Foundations_Certificate%20of%20Completion%20(optional).png" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Course</h2>
+This badge earner has a foundational understanding of Watson Discovery. The individual can articulate what Discovery is, what the appropriate business themes and use cases are, and how Discovery refines the values of your data.
+
+
+
+
+<h1 align="center"><a href="https://www.youracclaim.com/badges/74bc6cf3-24a5-4a76-add8-1bbbaa582129/public_url">Energy and Utilities Insights and Solutions (Bronze)</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/energy-utilities-bronze.png" width="20%" height="20%">
+</p>
+
+<h2 align="center">About the Course</h2>
+Awarded to a candidate that understands the client’s industry and applies that knowledge to deliver outstanding client value. It involves using knowledge related to business challenges, industry trends, the competition, business models.
+
+
+
+
+
+<h1 align="center"><a href="https://www.youracclaim.com/badges/21ca342e-048f-4cf6-95f5-a12d62a83a31/public_url">Getting started with Microservices with Istio and IBM Cloud Kubernetes Service</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Itsio_and_IBM_Cloud_Container_Service.png" width="20%" height="20%">
+</p>
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Getting%20started%20with%20Microservices%20with%20Istio%20and%20IBM%20Cloud%20Kubernetes%20Service.jpg" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Course</h2>
+The badge earner is able to: describe the 12-factor app principles, list the benefits of cloud native apps and the microservices architecture, describe how microservices are managed with IBM Cloud Container Service and Istio, show how to design microservices and how they communicate, show how a service mesh helps with microservice implementations, describe how Istio can be used to connect, manage, and secure microservices, and describe the logical components of Istio's data and control plane.
+
+
+
+
+
+<h1 align="center"><a href="https://www.youracclaim.com/badges/7b4444a6-f57f-47b8-bebc-011921f859de/public_url">IBM Garage Method for Cloud Explorer</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/IBM_Garage_Method_for_Cloud_-_Explorer.png" width="20%" height="20%">
+</p>
+
+<h2 align="center">About the Course</h2>
+The IBM Garage Method for Cloud Explorer has demonstrated an understanding of the IBM Garage Method for Cloud practices. The individual has learned the phases in the method and the key practices in each phase, including the IBM Design Thinking, Agile, DevOps, and Analytics practices needed to help their team evolve their process and continuously delivery innovative solutions.
+
+
+
+
+<h1 align="center"><a href="https://www.youracclaim.com/badges/d348b0a4-9bb2-4c5b-8fb2-f4b5195f8a98/public_url">Watson Speech to Text</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Watson_Academy_-_Speech_to_Text_2019.png" width="20%" height="20%">
+</p>
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Watson%20Speech%20to%20Text%20Service%20V2_Certificate%20of%20Completion.png" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Course</h2>
+The badge holder has demonstrated an understanding of the use and functions of the Watson Speech to Text service. In addition, they are able to create an instance of the Watson Speech to Text service, and build a custom model.
+
+
+
+
+
+<h1 align="center"><a href="https://www.youracclaim.com/badges/b280b2c1-c617-4abe-902c-a13be679936a/public_url">Docker Essentials: A Developer Introduction</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Docker_Essentials_-_ISDN.png" width="20%" height="20%">
+</p>
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Docker%20Essentials%20A%20Developer%20Introduction.jpg" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Course</h2>
+Earners of this badge know what Docker containers are and their benefits. The individual knows how to run containers from Docker Hub, create Docker containers, and how to solve basic problems of orchestration (reconciliation, scaling, high availability, service discovery). The badge earner also understands best practices for using DockerFiles and the basics of how to use tools such as the IBM Cloud Kubernetes Service.
+
+
+
+
+<h1 align="center"><a href="https://courses.cognitiveclass.ai/certificates/d1de1c1b6a054bd5bf077e20cee6f7ca"> Container & Kubernetes Essentials with IBM Cloud </a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Container%20%26%20Kubernetes%20Essentials%20with%20IBM%20Cloud.jpg" width="90%" height="90%">
+</p>
 
 
 
