@@ -35,7 +35,7 @@ An Oracle Utilities Customer Care and Billing 2 Certified Implementation Special
 </p>
 
 <h2 align="center">About the Course</h2>
-RedHat Hackathon+ 2020 was a competetion between 400+ teams. It was conduted by IBM. Each team had 5 members. We secured 2nd position in this hackathon. Project made by us can be seen on clicking title link.
+RedHat Hackathon+ 2020 was a competetion between 400+ teams of 5 members each. It was conduted by IBM at Asia Pacific Level. Each team had . We secured 2nd position in this hackathon. Project made by us can be seen on clicking title link.
 
 
 
