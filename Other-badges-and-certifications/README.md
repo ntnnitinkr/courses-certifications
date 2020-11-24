@@ -28,6 +28,18 @@ An Oracle Utilities Customer Care and Billing 2 Certified Implementation Special
 
 
 
+<h1 align="center"><a href="https://github.com/ntnnitinkr/projects/tree/master/healthPlanner">RedHat Hackathon+ 2020</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/HackathonCertificate_CloudRacers.png" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Course</h2>
+RedHat Hackathon+ 2020 was a competetion between 400+ teams. It was conduted by IBM. Each team had 5 members. We secured 2nd position in this hackathon. Project made by us can be seen on clicking title link.
+
+
+
+
 <h1 align="center"><a href="https://www.youracclaim.com/badges/adbc6dd5-3037-450a-afc3-9553c11f59c5/public_url">IBM Automation: Compass</a></h1>
 
 <p align="center">
