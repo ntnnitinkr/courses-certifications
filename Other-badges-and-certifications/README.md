@@ -40,6 +40,18 @@ RedHat Hackathon+ 2020 was a competetion between 400+ teams of 5 members each. I
 
 
 
+<h1 align="center">Best Graduate Hire 2019</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Best_GH_2019_IBM.png" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Award</h2>
+Best Graduate Hire Award is used to give to exceptional performer. Price amount included in this award is $200.
+
+
+
+
 <h1 align="center"><a href="https://www.youracclaim.com/badges/adbc6dd5-3037-450a-afc3-9553c11f59c5/public_url">IBM Automation: Compass</a></h1>
 
 <p align="center">
