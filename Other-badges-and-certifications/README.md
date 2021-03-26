@@ -1,3 +1,18 @@
+<h1 align="center"><a href="https://www.youracclaim.com/badges/f8ef23e7-e6ae-45a6-9b1f-3ee93ed7f711/public_url">Microsoft Certified: Azure Fundamentals</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Microsoft-azure-fundamentals-badge.png" width="20%" height="20%">
+</p>
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Microsoft-azure-fundamentals-az-900-cert.png" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Course</h2>
+Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
+
+
+
+
 <h1 align="center"><a href="https://www.youracclaim.com/badges/547020ed-e70f-47af-82bc-1ac8a35c136f/public_url">Oracle Utilities Customer Cloud Service 2020 Certified Implementation Specialist</a></h1>
 
 <p align="center">
