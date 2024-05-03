@@ -1,3 +1,20 @@
+<h1 align="center"><a href="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Adobe%20Certified%20Expert%20-%20Adobe%20Experience%20Manager%20Sites%20Developer.pdf">Adobe Certified Expert - Adobe Experience Manager Sites Developer</a></h1>
+
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Adobe_Certified_Expert_Adobe_Experience_Manager_Sites_Developer_Badge.png" width="20%" height="20%">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Adobe_Certified_Expert_Adobe_Experience_Manager_Sites_Developer_Badge_white.png" width="20%" height="20%">
+</p>
+<p align="center">
+<img src="https://github.com/ntnnitinkr/courses-certifications/blob/master/Other-badges-and-certifications/Adobe%20Certified%20Expert%20-%20Adobe%20Experience%20Manager%20Sites%20Developer.png" width="90%" height="90%">
+</p>
+
+<h2 align="center">About the Exam</h2>
+The Adobe AD0-E134 exam focuses on validating your knowledge and skills in developing solutions using Adobe Experience Manager (AEM) Sites.
+
+
+
+
 <h1 align="center"><a href="https://www.youracclaim.com/badges/f8ef23e7-e6ae-45a6-9b1f-3ee93ed7f711/public_url">Microsoft Certified: Azure Fundamentals</a></h1>
 
 <p align="center">
